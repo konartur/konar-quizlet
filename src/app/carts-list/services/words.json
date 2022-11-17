@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Overnight",
+    "translate": "translating1...",
+    "description": "testing description1"
+  },
+  {
+    "name": "2-Day",
+    "translate": "translating2...",
+    "description": "testing description2"
+  },
+  {
+    "name": "Postal",
+    "translate": "translating3...",
+    "description": "testing description3"
+  },
+  {
+    "name": "4-Day",
+    "translate": "translating4...",
+    "description": "testing description4"
+  },
+  {
+    "name": "Postal-5",
+    "translate": "translating5...",
+    "description": "testing description5"
+  }
+]

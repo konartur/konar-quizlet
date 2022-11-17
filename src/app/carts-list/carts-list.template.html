@@ -1,6 +1,6 @@
 <div>
   <h1>List of words</h1>
-  <div class="carts-list__container">
+  <div class="carts-list__container" *ngFor="let cart of carts | async">
     <cart-item></cart-item>
   </div>
 </div>
